@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/React_Deploy/static/js/main.de5e9cab.js",
+    "index.html": "/React_Deploy/index.html",
+    "main.de5e9cab.js.map": "/React_Deploy/static/js/main.de5e9cab.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.de5e9cab.js"
+  ]
+}
